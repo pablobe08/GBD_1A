@@ -2,22 +2,40 @@
 
 
 ## Instalacion
+### Pasos Previos
 ![](Fotos/Instalacion(17).png)
+### Eleccion de Tipo de Herramienta
 ![](Fotos/Instalacion(16).png)
+### Instalacion de Servicios
 ![](Fotos/Instalacion(15).png)
+### Configuracion de Productos
 ![](Fotos/Instalacion(14).png)
+### Red a Utilizar
 ![](Fotos/Instalacion(13).png)
+### Metodo de Autentificacion
 ![](Fotos/Instalacion(12).png)
+### Usuarios y Contraseñas
 ![](Fotos/Instalacion(11).png)
+La contraseña de Root es :9629b28d613a1d88bd9f9092c1c87601
+### Configuracion de Windows
 ![](Fotos/Instalacion(10).png)
+### Permisos
 ![](Fotos/Instalacion(9).png)
+### Aplicar la Configuracion
 ![](Fotos/Instalacion(8).png)
+###
 ![](Fotos/Instalacion(7).png)
+### Configuracion del producto
 ![](Fotos/Instalacion(6).png)
+### Configuracion del Router
 ![](Fotos/Instalacion(5).png)
+### Conexion con el servidor
 ![](Fotos/Instalacion(4).png)
+###
 ![](Fotos/Instalacion(3).png)
+### Aplicar la Configuracion
 ![](Fotos/Instalacion(2).png)
+### Instalacion Completada
 ![](Fotos/Instalacion(1).png)
 ## Diseño
 ![](Fotos/1-diseño.png)
