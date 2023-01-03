@@ -12,7 +12,7 @@ create table seleccion(
     nombre          varchar2(30) constraint seleccion_uk1        unique
                                  constraint seleccion_nn1        not null ,
     patrocinador    varchar2(20) constraint seleccion_nn2        not null ,
-    --¡ ganador si /no¡--
+    ganador         bit,
     ranking_fifa    number(3)    constraint seleccion_nn4        not null
                                  constraint seleccion_uk         unique ,
     goles_afavor    number(2)    constraint seleccion_nn5        not null ,
