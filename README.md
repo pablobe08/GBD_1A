@@ -2,10 +2,10 @@
 
 
 ## Instalacion
-[!]()
+![]()
 
 ## Diseño
-!(C:\Users\ALBERTO\Documents\GBD_1A\Fotos/1- diseño.png)
+![](Fotos/1-diseño.png)
 ## Conexion 
 
 
