@@ -5,7 +5,7 @@
 [!]()
 
 ## Diseño
-![](Fotos/MicrosoftTeams-image (1).png))
+![](Fotos/MicrosoftTeams-image (1).png)
 
 ## Conexion 
 
