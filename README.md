@@ -5,7 +5,7 @@
 [!]()
 
 ## Diseño
-![](C:\Users\ALBERTO\OneDrive - Centro Don Bosco\Documents\GBD_1A\Fotos/1- diseño.png)
+![](C:\Users\ALBERTO\Documents\GBD_1A\Fotos/1- diseño.png)
 ## Conexion 
 
 
