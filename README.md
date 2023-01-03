@@ -2,23 +2,24 @@
 
 
 ## Instalacion
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+![](Fotos/Instalacion(1).png)
+![](Fotos/Instalacion(2).png)
+![](Fotos/Instalacion(3).png)
+![](Fotos/Instalacion(4).png)
+![](Fotos/Instalacion(5).png)
+![](Fotos/Instalacion(6).png)
+![](Fotos/Instalacion(7).png)
+![](Fotos/Instalacion(8).png)
+![](Fotos/Instalacion(9).png)
+![](Fotos/Instalacion(10).png)
+![](Fotos/Instalacion(11).png)
+![](Fotos/Instalacion(12).png)
+![](Fotos/Instalacion(13).png)
+![](Fotos/Instalacion(14).png)
+![](Fotos/Instalacion(15).png)
+![](Fotos/Instalacion(16).png)
+![](Fotos/Instalacion(17).png)
+![](Fotos/Instalacion(18).png)
 ## Diseño
 ![](Fotos/1-diseño.png)
 ## Conexion 
