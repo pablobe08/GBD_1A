@@ -9,16 +9,15 @@
 ![](Fotos/Instalacion(13).png)
 ![](Fotos/Instalacion(12).png)
 ![](Fotos/Instalacion(11).png)
+
+La contraseña de root es la siguiente: 9629b28d613a1d88bd9f9092c1c87601
+
+
 ![](Fotos/Instalacion(10).png)
 ![](Fotos/Instalacion(9).png)
 ![](Fotos/Instalacion(8).png)
 ![](Fotos/Instalacion(7).png)
 ![](Fotos/Instalacion(6).png)
-
-
-La contraseña de root es la siguiente: 9629b28d613a1d88bd9f9092c1c87601
-
-
 ![](Fotos/Instalacion(5).png)
 ![](Fotos/Instalacion(4).png)
 ![](Fotos/Instalacion(3).png)
