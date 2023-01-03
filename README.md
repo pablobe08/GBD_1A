@@ -99,7 +99,9 @@ Aplicar la configuración
 
 
 ## Conexion 
-![]()
+
+
+![](Fotos/conexion.png)
 
 
 ## Conclusiones
