@@ -2,7 +2,22 @@
 
 
 ## Instalacion
-![]()
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ## Diseño
 ![](Fotos/1-diseño.png)
