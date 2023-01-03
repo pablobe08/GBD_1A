@@ -5,7 +5,7 @@
 [!]()
 
 ## Diseño
-![](Fotos/MicrosoftTeams-image (1).png)
+![](C:/Users/ALBERTO/OneDrive -Centro Don Bosco/documents/GBD_1A/Fotos/MicrosoftTeams-image (1).png)
 
 ## Conexion 
 
