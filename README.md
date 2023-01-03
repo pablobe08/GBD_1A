@@ -5,8 +5,7 @@
 [!]()
 
 ## Diseño
-![](../../GBD_1A/Fotos/1-diseño.png)
-<img src=" ../../GBD_1A/Fotos/1-diseño.png> 
+![](C:\Users\ALBERTO\OneDrive - Centro Don Bosco\Documents\GBD_1A\Fotos\1-diseño.png)
 ## Conexion 
 
 
