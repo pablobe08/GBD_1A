@@ -5,7 +5,7 @@
 [!]()
 
 ## Diseño
-![](Fotos/1-diseño.png)
+![](GBD_1A/Fotos/1-diseño.png)
 
 ## Conexion 
 
